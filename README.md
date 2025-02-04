@@ -19,7 +19,7 @@
 - Database
 <br>MySQL</br>
 
-My favolite is Kubernetes 🐝
+My favorite is Kubernetes 🐝
 
 <!---
 nayataiyo/nayataiyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
