@@ -1,5 +1,7 @@
 # Job🏃
   Infra Engineer
+# output📚
+https://github.com/nayataiyo/menta
 # Blog/Portfolio✍
   https://techbull.cloud/about-techbull
   <br>https://qiita.com/nayaaaa  </br>
