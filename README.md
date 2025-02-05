@@ -3,11 +3,10 @@
 # output📚
 https://github.com/nayataiyo/menta
 # Blog/Portfolio✍
-  https://techbull.cloud/about-techbull
   <br>https://qiita.com/nayaaaa  </br>
 https://charmed-hacksaw-354.notion.site/19092cf982a38045a1b1c7a52a437212</br>
 # Community🙌
-  https://techbull.cloud
+  [https://techbull.cloud](https://techbull.cloud/member)
 # Skill⚔
 - Infra Cloud
 <br>AWS,Kubernetes,Docker,Vagrant</br>
