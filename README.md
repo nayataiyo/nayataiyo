@@ -1,12 +1,12 @@
 # Job🏃
   Infra Engineer
 # output📚
-https://github.com/nayataiyo/Wordpress
-https://github.com/nayataiyo/ShellScript
-https://github.com/nayataiyo/Ansible
-https://github.com/nayataiyo/Docker-Laravel
-https://github.com/nayataiyo/Docker-Rails
-https://github.com/nayataiyo/Kubernetes-Wordpress
+<br>https://github.com/nayataiyo/Wordpress
+<br>https://github.com/nayataiyo/ShellScript
+<br>https://github.com/nayataiyo/Ansible
+<br>https://github.com/nayataiyo/Docker-Laravel
+<br>https://github.com/nayataiyo/Docker-Rails
+<br>https://github.com/nayataiyo/Kubernetes-Wordpress</br>
 # Blog/Portfolio✍
 https://qiita.com/nayaaaa
 <br>https://charmed-hacksaw-354.notion.site/19092cf982a38045a1b1c7a52a437212</br>
