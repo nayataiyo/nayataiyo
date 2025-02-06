@@ -18,15 +18,15 @@ https://qiita.com/nayaaaa
 # Community🙌
   [https://techbull.cloud](https://techbull.cloud/member)
 # Skill⚔
-- Infra Cloud
+- **Infra Cloud**
 <br>AWS,Kubernetes,Docker,Vagrant</br>
-- Web Server
+- **Web Server**
 <br>Nginx</br>
-- IaC
+- **IaC**
 <br>Ansible,Terraform</br>
-- Monitoring
+- **Monitoring**
 <br>Grafana,Zabbix</br>
-- Database
+- **Database**
 <br>MySQL</br>
 
 My favorite is Kubernetes 🐝
