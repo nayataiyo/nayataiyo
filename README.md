@@ -1,11 +1,16 @@
 # Job🏃
   Infra Engineer
 # output📚
+-  **Wordpress**
 <br>https://github.com/nayataiyo/Wordpress
+- **ShellScript**
 <br>https://github.com/nayataiyo/ShellScript
+- **Ansible+Zabbix+Grafana**
 <br>https://github.com/nayataiyo/Ansible
+- **Docker**
 <br>https://github.com/nayataiyo/Docker-Laravel
 <br>https://github.com/nayataiyo/Docker-Rails
+- **Kubernetes**
 <br>https://github.com/nayataiyo/Kubernetes-Wordpress</br>
 # Blog/Portfolio✍
 https://qiita.com/nayaaaa
