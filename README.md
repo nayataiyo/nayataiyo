@@ -1,7 +1,7 @@
 # Job🏃
   Infra Engineer
 # output📚
-https://github.com/nayataiyo/menta
+[https://github.com/nayataiyo/menta](https://github.com/nayataiyo/Dev-Environments)
 # Blog/Portfolio✍
 https://qiita.com/nayaaaa
 <br>https://charmed-hacksaw-354.notion.site/19092cf982a38045a1b1c7a52a437212</br>
