@@ -29,7 +29,7 @@ https://qiita.com/nayaaaa
 - **Database**
 <br>MySQL</br>
 
-My favorite is Kubernetes 🐝
+My favorite is Kubernetes 🐝　and AWS ⛅ but I'm still learning!
 
 <!---
 nayataiyo/nayataiyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
